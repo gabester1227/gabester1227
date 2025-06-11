@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabriel Schonacher
 - 👀 I’m interested in Powerlifting, Wakeboarding, and always learning something!
-- 🌱 I’m currently learning Javascript, and more Front-end skill work.
+- 🌱 I’m currently learning more about Data work (Data Engineering, Data Science, Data Analytics) building Data Warehouses, Data Lakehouses, Databases.
 - 📫 You can reach me through my personal email: gabe1227@yahoo.com
 
 <!---
